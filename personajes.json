@@ -1,8 +1,0 @@
-{
-    "personaje principal" :"yo",
-    "personaje secundario" :"mi gato",
-    "antagonista": "el capitalismo" ,
-    "objeto":{"key":"value"},
-    "lista" :[1,2,true,{},"hola mundo"],
-    "error3":false
-}
